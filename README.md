@@ -1,2 +1,2 @@
-# KAli-on-termux
+# Kali-on-termux
 kali linux
