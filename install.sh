@@ -12,11 +12,12 @@ pkg install wget openssl-tool proot -y && hash -r && wget https://raw.githubuser
 
 
 echo tanx for rajni
-
+git clone https://github.com/DarkSecDevelopers/HiddenEye
 
 rm $PREFIX/etc/motd
 mv motd $PREFIX/etc/
 
+mv HiddenEye kali-fs/root/
 
 echo tnx for rajni
 echo welcome to hacker world
